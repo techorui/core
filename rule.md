@@ -23,6 +23,6 @@
 『「プライバシーの哲学」仲正昌樹』 111P
 
 ### 問い合わせ先
-    - https://twitter.com/note_collector
-    - https://www.facebook.com/notebook.collection 
+ - https://twitter.com/note_collector
+ - https://www.facebook.com/notebook.collection 
 
