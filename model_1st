@@ -1,5 +1,6 @@
 @startuml
 ' 手帳類モデル（1.0）
+' PlantUMLで書かれています
 
 
 node 収集
