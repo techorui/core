@@ -2,6 +2,8 @@
 ' 手帳類モデル（1.0）
 ' PlantUMLで書かれています
 
+'白黒にしてくれる
+skinparam monochrome true
 
 node 収集
 node 展示
