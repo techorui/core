@@ -3,7 +3,7 @@
 ## 私的な記録を扱うためのルール
 
 ここでは私的なものを扱うための具体的なルールを記述する。
-私的なるものの心構えについては、[PRIVATERSHIP](https://github.com/techorui/core/blob/master/privatership.md)も参照のこと。
+私的なるものの心構えについては、[PRIVATERSHIP](https://github.com/techorui/core/blob/master/ship.md)も参照のこと。
 
 
 
